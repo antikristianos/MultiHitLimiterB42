@@ -1,0 +1,66 @@
+VERSION = 1,
+
+option MultiHitLimiter.TwoHandReq {
+    type = boolean, default = false,
+    page = MultiHitLimiter, translation = MultiHitLimiter_TwoHandReq,
+}
+option MultiHitLimiter.RangeBool {
+    type = boolean, default = true,
+    page = MultiHitLimiter, translation = MultiHitLimiter_RangeBool,
+}
+option MultiHitLimiter.RangeNum {
+    type = double, min = 0.0, max = 100, default = 1.21,
+    page = MultiHitLimiter, translation = MultiHitLimiter_RangeNum,
+}
+option MultiHitLimiter.StrReq {
+    type = integer, min = 0, max = 10, default = 0,
+    page = MultiHitLimiter, translation = MultiHitLimiter_StrReq,
+}
+option MultiHitLimiter.FitReq {
+    type = integer, min = 0, max = 10, default = 0,
+    page = MultiHitLimiter, translation = MultiHitLimiter_FitReq,
+}
+option MultiHitLimiter.SkillReq {
+    type = integer, min = 0, max = 10, default = 0,
+    page = MultiHitLimiter, translation = MultiHitLimiter_SkillReq,
+}
+option MultiHitLimiter.MaxHitCap {
+    type = integer, min = 0, max = 5, default = 0,
+    page = MultiHitLimiter, translation = MultiHitLimiter_MaxHitCap,
+}
+option MultiHitLimiter.Axe {
+    type = boolean, default = true,
+    page = MultiHitLimiter, translation = MultiHitLimiter_Axe,
+}
+option MultiHitLimiter.LongBlunt {
+    type = boolean, default = true,
+    page = MultiHitLimiter, translation = MultiHitLimiter_LongBlunt,
+}
+option MultiHitLimiter.SmallBlunt {
+    type = boolean, default = true,
+    page = MultiHitLimiter, translation = MultiHitLimiter_SmallBlunt,
+}
+option MultiHitLimiter.LongBlade {
+    type = boolean, default = true,
+    page = MultiHitLimiter, translation = MultiHitLimiter_LongBlade,
+}
+option MultiHitLimiter.SmallBlade {
+    type = boolean, default = true,
+    page = MultiHitLimiter, translation = MultiHitLimiter_SmallBlade,
+}
+option MultiHitLimiter.Spear {
+    type = boolean, default = true,
+    page = MultiHitLimiter, translation = MultiHitLimiter_Spear,
+}
+option MultiHitLimiter.Unarmed {
+    type = boolean, default = true,
+    page = MultiHitLimiter, translation = MultiHitLimiter_Unarmed,
+}
+option MultiHitLimiter.Whitelist {
+    type = string, default = Base.BareHands,
+    page = MultiHitLimiter, translation = MultiHitLimiter_Whitelist,
+}
+option MultiHitLimiter.Blacklist {
+    type = string, default = Base.Nightstick,
+    page = MultiHitLimiter, translation = MultiHitLimiter_Blacklist,
+}

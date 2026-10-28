@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Multi Hit Limiter - B42 Rework
+Implementation-Version: 0.1.2
+Created-By: 25 (Oracle Corporation)
+

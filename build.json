@@ -1,0 +1,49 @@
+{
+  "JavaRelease": 17,
+  "JarName": "MultiHitLimiterB42.jar",
+  "AdditionalClasspath": [],
+  "Entries": [
+    {
+      "Path": "antikristianos/multihitlimiterb42/HitLimiter.class",
+      "Size": 7334,
+      "Sha256": "36450F9D3036AC9139115014356F93EC7510A5864CFC48E9861E4E2691621BBC"
+    },
+    {
+      "Path": "antikristianos/multihitlimiterb42/LimitPolicy.class",
+      "Size": 1114,
+      "Sha256": "014B159CAF5B777DE8F408B2FA1160B407DC30E96BB863065A178A8D11DF523A"
+    },
+    {
+      "Path": "antikristianos/multihitlimiterb42/Main.class",
+      "Size": 624,
+      "Sha256": "F8993A22EBE64A7F90276ADD8D7CCF515E33B34F2483D889C7B0BD1D97160523"
+    },
+    {
+      "Path": "antikristianos/multihitlimiterb42/PatchHitList.class",
+      "Size": 1064,
+      "Sha256": "4055B314D6A7421BD242AAE7DB385C2484022D45F0ADD4E7FC2F26DA8235926C"
+    },
+    {
+      "Path": "antikristianos/multihitlimiterb42/Settings.class",
+      "Size": 3797,
+      "Sha256": "A0A6744C46E7ACCA4C5BCB077F6E217F6C3BC54273F27EDE3C9F302428E63F8A"
+    },
+    {
+      "Path": "antikristianos/multihitlimiterb42/combat.sha256",
+      "Size": 65,
+      "Sha256": "533F20AC0C5CD7DBC82A8E4F9DBE5186D5CD3640CD6056A9A2B4569245F1D308"
+    }
+  ],
+  "Dependencies": [
+    {
+      "Path": "projectzomboid.jar",
+      "Size": 66254409,
+      "Sha256": "90C54B84EBC160AE053CBEFE30C7713826CA4FDB4934FDE53C9EBDE0FF9892F3"
+    },
+    {
+      "Path": "ZombieBuddy.jar",
+      "Size": 12491692,
+      "Sha256": "79120880FDA051718082BD9BF0C2C2B639450AE73641FDB4631750221A57B208"
+    }
+  ]
+}

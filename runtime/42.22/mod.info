@@ -1,0 +1,13 @@
+name=Multi Hit Limiter - B42 Rework (WIP)
+id=MultiHitLimiterB42_WIP
+author=Antikristianos; original mod concept by Sowilo
+description=B42 rework of Sowilo's Multi Hit Limiter (Workshop 2977607164). Configurable melee and shove target limits. Requires ZombieBuddy.
+icon=../common/icon.png
+require=\ZombieBuddy
+javaJarFile=media/java/MultiHitLimiterB42.jar
+javaPkgName=antikristianos.multihitlimiterb42
+ZBVersionMin=2.3.2
+modversion=0.1.2
+versionMin=42.22.0
+category=Weapons
+incompatible=MultiHitLimiter,MultiHitLimiterB42

@@ -1,0 +1,89 @@
+{
+  "SchemaVersion": 1,
+  "Project": "MultiHitLimiterB42",
+  "Repository": "antikristianos/MultiHitLimiterB42",
+  "Branch": "wip",
+  "Tag": "wip-1.63",
+  "ModVersion": "0.1.2",
+  "CollectionVersion": "1.63",
+  "WorkshopId": 3802764936,
+  "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802764936",
+  "UploadManifestSha256": "2DF2A9D193786BC163CE4EA9E9B6232EE0819F421B726E8CA65CB59859AB0AD7",
+  "Artifact": {
+    "Path": "mods/MultiHitLimiterB42_WIP/42.22/media/java/MultiHitLimiterB42.jar",
+    "Size": 9011,
+    "Sha256": "718426C2E9229BE0B94C3A8A0E9C3773DED57D41AA356F69FB601286D0593124"
+  },
+  "Sources": [
+    {
+      "Path": ".gitignore",
+      "Size": 8,
+      "Sha256": "020C2606E8ED484089C2083E0BE438B9D0736BEE1558A6B76AF0D58BD23F69CF"
+    },
+    {
+      "Path": "MANIFEST.MF",
+      "Size": 147,
+      "Sha256": "0279EDB7A714BF1CEB163A6A5D7BB1C740EF51E03F9E849CD0E0F5881FC36FA3"
+    },
+    {
+      "Path": "README.md",
+      "Size": 1457,
+      "Sha256": "8E639B918400F9841FEA769BCC6C03A9FC8C4C13292418B023C2C099B44B6944"
+    },
+    {
+      "Path": "build.json",
+      "Size": 1585,
+      "Sha256": "87FDB195ECC56B11F1C05135B6F8F64409213D36107AD1B98844BBDC4D0ED558"
+    },
+    {
+      "Path": "build.ps1",
+      "Size": 2600,
+      "Sha256": "8389B7B0B5515387FA5D9B3989FED7C8629DA7762817C03AD266B69DE5B2B0FD"
+    },
+    {
+      "Path": "resources/antikristianos/multihitlimiterb42/combat.sha256",
+      "Size": 65,
+      "Sha256": "533F20AC0C5CD7DBC82A8E4F9DBE5186D5CD3640CD6056A9A2B4569245F1D308"
+    },
+    {
+      "Path": "runtime/42.22/media/lua/shared/Translate/EN/Sandbox.json",
+      "Size": 3543,
+      "Sha256": "1C0CCDBCD6023530553672580D2AD9B9B757A46750F169CD97BB740F39F132AF"
+    },
+    {
+      "Path": "runtime/42.22/media/sandbox-options.txt",
+      "Size": 2356,
+      "Sha256": "753852DAD68A4E9B1679E069063577536CB072F0FCA48CEBFACCA032B77FD6DC"
+    },
+    {
+      "Path": "runtime/42.22/mod.info",
+      "Size": 521,
+      "Sha256": "E0582CDC643DC704DFF4558A8DDF8F0779588B727030E5F7F490AD5C3E56B60E"
+    },
+    {
+      "Path": "src/antikristianos/multihitlimiterb42/HitLimiter.java",
+      "Size": 4560,
+      "Sha256": "63C704A8016C894AE8E25D5F174C315D9560C68B8A795778724DD601A4793190"
+    },
+    {
+      "Path": "src/antikristianos/multihitlimiterb42/LimitPolicy.java",
+      "Size": 1456,
+      "Sha256": "BC168BBDED3A9EDB92EE7158B254576AF9D98967AA1577D4E5F68F56387014E1"
+    },
+    {
+      "Path": "src/antikristianos/multihitlimiterb42/Main.java",
+      "Size": 311,
+      "Sha256": "8AF288A540A946B2A23F107BB20A24843FE8FF6ACF1787988C3EAF290D7C0F7F"
+    },
+    {
+      "Path": "src/antikristianos/multihitlimiterb42/PatchHitList.java",
+      "Size": 489,
+      "Sha256": "D5B1305887B1C4189942986B5B7CE9C8AB1B634BB9DF103D43559BB53AA2BD8C"
+    },
+    {
+      "Path": "src/antikristianos/multihitlimiterb42/Settings.java",
+      "Size": 2709,
+      "Sha256": "567DF3F983EE1E21E01B6FD8DE6B5AE7767B004ED35EB03220E1BAC5378376F4"
+    }
+  ]
+}
