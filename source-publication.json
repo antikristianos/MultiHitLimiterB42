@@ -3,12 +3,12 @@
   "Project": "MultiHitLimiterB42",
   "Repository": "antikristianos/MultiHitLimiterB42",
   "Branch": "wip",
-  "Tag": "wip-1.83",
+  "Tag": "wip-1.84",
   "ModVersion": "0.1.2",
-  "CollectionVersion": "1.83",
+  "CollectionVersion": "1.84",
   "WorkshopId": 3802764936,
   "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802764936",
-  "UploadManifestSha256": "B0983CE5AAB18AE48396CD36F752A6A31C01D20AF89B7AD8E665BE18C832D238",
+  "UploadManifestSha256": "8FD533D1C5DF3E2680193AC55A05A0C01046B4C42E3D20011526B56598AA6615",
   "Artifact": {
     "Path": "mods/MultiHitLimiterB42_WIP/42.22/media/java/MultiHitLimiterB42.jar",
     "Size": 9011,
@@ -33,7 +33,7 @@
     {
       "Path": "build.json",
       "Size": 1585,
-      "Sha256": "B7F8CD09DBA5760209925D2B811FAFEE47D157CE1CB806762144E099616B27A3"
+      "Sha256": "C8E5A36B09E8C66BABDC9B177F1F257462EC14CF817D16F445830A7AFFFBEEC2"
     },
     {
       "Path": "build.ps1",
